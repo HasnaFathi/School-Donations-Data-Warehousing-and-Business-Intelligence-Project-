@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "School_Donations", "School_Donations\School_Donations.dtproj", "{F3FA06CA-791D-4C12-95A5-D35506A41656}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3FA06CA-791D-4C12-95A5-D35506A41656}.Development|Default.ActiveCfg = Development
+		{F3FA06CA-791D-4C12-95A5-D35506A41656}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51DA5823-07EB-4F8D-8ECD-A9B4F0DAA984}
+	EndGlobalSection
+EndGlobal
