@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "School_Donations_cube", "School_Donations_cube\School_Donations_cube.dwproj", "{65206C57-92A6-4A3F-8165-AA1E791E4607}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65206C57-92A6-4A3F-8165-AA1E791E4607}.Development|Default.ActiveCfg = Development
+		{65206C57-92A6-4A3F-8165-AA1E791E4607}.Development|Default.Build.0 = Development
+		{65206C57-92A6-4A3F-8165-AA1E791E4607}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0881D57B-0765-4944-B200-49FB841FE4C6}
+	EndGlobalSection
+EndGlobal
